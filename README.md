@@ -901,16 +901,15 @@ How to Contribute
 
 Fork the repository
 Create a feature branch
-
-bash   git checkout -b feature/AmazingFeature
+ git checkout -b feature/AmazingFeature
 
 Commit your changes
 
-bash   git commit -m 'Add: Predictive demand forecasting model'
+git commit -m 'Add: Predictive demand forecasting model'
 
 Push to the branch
 
-bash   git push origin feature/AmazingFeature
+git push origin feature/AmazingFeature
 ```
 5. **Open a Pull Request**
 
@@ -1061,7 +1060,4 @@ Made with ❤️ and 📊 by [Your Name]
    git push origin main
 ```
 
-The README is now ready to use and will display beautifully on your GitHub repository
-
-- [ ] **Predictive Modeling**
-  - Time-series forec
+The README is now ready to use and will display beautifully on your GitHub repository page!
